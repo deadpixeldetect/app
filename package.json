@@ -1,0 +1,10 @@
+{
+  "name": "mi-app-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "description": "App web sencilla con backend serverless para Vercel",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "engines": { "node": ">=18" }
+}
